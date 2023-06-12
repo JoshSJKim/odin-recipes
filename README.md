@@ -7,3 +7,7 @@
 - It will include:
   - a main index page
   - The main index page will have links to a few recipes.
+
+```html
+Live site: <a href="https://joshsjkim.github.io/odin-recipes">Click here!</a>
+```
