@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+  color: beige;
+}
+
+h1 {
+  text-align: center;
+  padding: 35px;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  width: 300px;
+  padding: 20px;
+}
+
+figcaption {
+  text-align: center;
+}
+
+.content-container {
+  padding-top: 20px;
+  width: 500px;
+  margin: auto
+}
+
+.content-container h3, .content-container h2 {
+  padding: 20px 0;
+}
+
+ol {
+  padding-bottom: 40px;
+}
+
+footer {
+  margin: 30px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+a {
+  color: beige;
+  text-decoration: none;
+}
