@@ -1,13 +1,41 @@
+
 body {
   background-color: black;
+
 }
 
 h1 {
   text-align: center;
-  margin: 50px;
+  padding: 50px;
   color: beige;
 }
 
-ul {
-  text-decoration: none;
+.container {
+  width: 50%;
+  background-color: brown;
+  padding: 50px;
+  margin: auto;
+  border-radius: 10px;
 }
+
+ul {
+  width: 100%;
+}
+
+li {
+  list-style: none;
+  padding: 20px 0;
+}
+
+
+a {
+  text-decoration: none;
+  color: beige;
+}
+
+a:hover {
+  cursor: pointer;
+}
+
+
+
