@@ -37,6 +37,10 @@ ol {
   padding-bottom: 40px;
 }
 
+ol li {
+  padding: 10px 0
+}
+
 footer {
   margin: 30px;
   text-align: center;
